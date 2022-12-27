@@ -1,0 +1,10 @@
+{
+    "1": "Error when create new AI conversations",
+    "2": "When try to delete ai conversation, but don't have any data about that server\n File：button/delete_conversations",
+    "3": "When try to delete ai conversation, but channel are not record on conversation data, so the action get block\n File：button/delete_conversations",
+    "4": "When try let conversations make it private, but that server doesn't have any data\n File: button/private_conversations.js",
+    "5": "When try to public server, but server doesn't have any data\n File: button/public_conversations.js",
+    "6": "When try to change conversation chat mode, but server doesn't have any data\n File: menu_select_conversation.js",
+    "7": "When want to reply message(aichat), but server doesn't have any data about that server\n File: library/chatgpt.js",
+    "8": "When bot want to reply user message (aichat), but server doesn't have data about that channel\n File: library/chatgpt.js"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "chatgpt",
+  "version": "1.2.0",
+  "description": "Connect with Openai GPT3 bot",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "node-fetch": "^2.6.7",
+    "uuid": "^9.0.0"
+  },
+  "engines": {
+    "node": "16.10.0"
+  }
+}
